@@ -1,5 +1,3 @@
-# RSC_ranking
+# RSC_ranking #
 
-**Yoooo**
-\n
-**<3**
+**Yoooo <3**
