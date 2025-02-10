@@ -1,4 +1,4 @@
-local Sell = workspace.Sell.Sell
+local Sell = workspace.Sell
 local Prompt = workspace.Boxes.Prompt
 local playerService = game:GetService("Players")
 
