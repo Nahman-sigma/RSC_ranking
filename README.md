@@ -2,7 +2,7 @@
 
 **Yoooo <3**
 
-**This contains my scripts from 2 seperate mini projects of mine: a box selling system and sharingan simulation**
+**This contains my scripts from 2 seperate mini projects (the box one was at the request of a game owner): box selling system and sharingan simulation**
 
 - The scripts for the box selling are: Leaderstats.lua , JobHandler.lua and Handler.lua
 
