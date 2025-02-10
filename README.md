@@ -7,3 +7,6 @@
 - The scripts for the box selling are: Leaderstats.lua , JobHandler.lua and Handler.lua
 
 - The scripts for my sharingan simulation are: Activaiton.lua and ServerScript.lua
+
+
+I'm very much a beginner I know the scripts are a pain to read 😭
